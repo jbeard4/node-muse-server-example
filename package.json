@@ -1,0 +1,12 @@
+{
+  "name": "node-muse-server-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "osc-min": "^0.1.0",
+    "socket.io": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.1.x"
+  }
+}
